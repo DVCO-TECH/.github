@@ -12,6 +12,7 @@ Bem-vindos ao hub tecnológico da **DVCO TECH**. Especializados em transformar d
 
 ### 📂 Cases de Sucesso:
 - **Educação:** Digitalização institucional para E.E. Gabriela Lobo.
+- **Educação:** Sistema de chamadas online para E.E. Gabriela Lobo.
 - **Saúde:** Gestão de dados e presença web para Clínica Espaço Prado.
 - **Serviços:** Sistema de agendamento inteligente para barbearias.
 
