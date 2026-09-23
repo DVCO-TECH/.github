@@ -5,7 +5,7 @@
 
 *Especialista em transformar dados em decisões e processos em eficiência.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-jorge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheljorgest)
 [![DVCO TECH](https://img.shields.io/badge/DVCO_TECH-00F0FF?style=for-the-badge&logo=rocket&logoColor=black)](#)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dvcotech.com)
 
