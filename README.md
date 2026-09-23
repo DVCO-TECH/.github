@@ -61,7 +61,7 @@ Sólida formação matemática combinada com a agilidade da engenharia de softwa
 - **Análise e Desenvolvimento de Sistemas** — *FATEC-SP* (Engenharia de Software e Programação)
 - **Licenciatura Plena em Matemática** — *Universidade de Mogi das Cruzes* (Cálculo, Estatística, Álgebra & Modelagem)
 - **Bacharelado em Pedagogia** — *Univesp*
-- **Pós-Graduação em Educação e Legislação** — *UNICIVE*
+- **Pós-Graduação em Educação e Legislação** — *Cenro Universitário Cidade Verde*
 
 ---
 
